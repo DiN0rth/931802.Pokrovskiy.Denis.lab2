@@ -1,0 +1,26 @@
+header{
+        height: 60px;
+        background-color: #EAEAEA;
+        padding-top: 10px;
+}
+main{
+        width: 100%;
+}
+#center{
+            margin-left: 200px;
+            margin-right: auto;
+}
+#leftcolumn{
+                float:left;
+                width:200px;
+                background-color: #C8FC98;
+}
+footer{
+            height: 30px;
+            background-color: black;
+            clear: left;
+            text-align:center;
+}
+a{
+    color:yellow;
+}

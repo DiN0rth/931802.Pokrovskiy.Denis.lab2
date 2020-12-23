@@ -1,0 +1,31 @@
+#block1{
+    background-color: aqua;
+    border-width: 1px;
+    border-style: solid;
+    border-color: green;
+}
+#block2{
+    float:left;
+    width:500px;
+    background-color: bisque;
+}
+#block3{
+    margin-left: 500px;
+    background-color: darkgray;
+}
+img{
+    float: right;
+    width:50%;
+}
+@media screen and (max-width: 900px){
+    #block2{
+        width:125px;
+    }
+    #block3{
+        margin-left: 125px;
+    }
+    img{
+        float: right;
+        width:175px;
+    }
+}

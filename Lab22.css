@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+}
+header{
+    height: 60px;
+       background-color: #EAEAEA;
+    padding-top: 10px;
+}
+#center{
+margin-left: 25%;
+margin-right: 200px;
+}
+#leftcolumn{
+float:left;
+width:25%;
+background-color: #C8FC98;
+}
+#rightcolumn{
+float:right;
+width:200px;
+background-color: #FDE95E;;
+}
+footer{
+        height: 30px;
+        background-color: black;
+        clear: right;
+        text-align:center;
+}
+a{
+    color:yellow;
+}
